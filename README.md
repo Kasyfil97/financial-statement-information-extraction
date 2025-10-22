@@ -1,3 +1,6 @@
+![Uploading ChatGPT Image Oct 23, 2025, 12_36_25 AM.png…]()
+
+
 # Financial Statement Extraction Using RAE and Ollama
 
 This repository experiments with a Retriever-Augmented Extraction (RAE) flow for Indonesian financial statements.  
