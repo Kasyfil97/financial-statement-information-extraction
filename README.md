@@ -1,4 +1,4 @@
-![Uploading ChatGPT Image Oct 23, 2025, 12_36_25 AM.png…]()
+![AI Financial Extraction Pipeline](rae.png)
 
 
 # Financial Statement Extraction Using RAE and Ollama
