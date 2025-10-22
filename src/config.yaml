@@ -1,0 +1,14 @@
+llm:
+  url: http://localhost:11434/api/generate
+  model: llama3.1:8b
+  timeout_seconds: 15
+  retries: 2
+  backoff_factor: 0.5
+
+section_segmenter:
+  chunk_size: 5000
+
+prompts:
+  file: prompts.yaml
+  key: EXTRACTOR_PROMPT
+  temperature: 0.0

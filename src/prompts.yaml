@@ -1,0 +1,17 @@
+EXTRACTOR_PROMPT: |
+    You are a financial analyst AI and expert in Indonesian financial statements.
+    Extract all correlated financial keys and their value in this {sections} segment:
+    {text}
+    
+    Find financial items and their numeric amounts in IDR currency.
+    - There will be 2 values each financial keys: previous year and current year, you must find the previous year and current year in segment text
+    - Each key as financial item name in English
+    - Each value should be in IDR if available
+    - If value in (), it means negative number
+    - All values must be pure numbers (no commas, currency symbols, or text)
+    - If amount is not available, use null
+    - Ignore explanations or notes
+
+    Do not include any explanations, introductions, or text outside the JSON. The first character in your response must be {{
+    Return ONLY valid JSON. Example:
+    {{key: {{ "current year": value1, "previous year": value2 }}}}

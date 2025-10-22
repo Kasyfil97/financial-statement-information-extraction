@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+.env/
+env/
+
+# Logs & reports
+*.log
+*.json
+!gpt_baseline_report.json
+
+# Mac OS metadata
+.DS_Store
+
+# Python tooling
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Misc
+*.swp
+*.swo
