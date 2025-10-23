@@ -1,0 +1,183 @@
+{
+  "source_file": "FinancialStatement-2024-Tahunan-EKAD.pdf",
+  "extraction_date": "2025-10-22",
+  "sections": [
+    "Statement of financial position",
+    "Statement of profit or loss",
+    "Statement of cash flows",
+    "Statement of changes in equity"
+  ],
+  "key_metrics_by_section": {
+    "Statement of financial position": {
+      "Total liabilities and equity": {
+        "name": "Jumlah liabilitas dan ekuitas",
+        "category_hint": "Equity + Liabilities (Total)",
+        "current_year": 1294783334986,
+        "previous_year": 1247265694706
+      },
+      "Total equity (group)": {
+        "name": "Jumlah ekuitas",
+        "category_hint": "Equity",
+        "current_year": 1191720415654,
+        "previous_year": 1147761019108
+      },
+      "Unappropriated retained earnings": {
+        "name": "Saldo laba yang belum ditentukan penggunaannya",
+        "category_hint": "Equity",
+        "current_year": 767071991327,
+        "previous_year": 732532760819
+      },
+      "Cash and cash equivalents": {
+        "name": "Kas dan setara kas",
+        "category_hint": "Assets - Current",
+        "current_year": 89822670664,
+        "previous_year": 126639835328
+      },
+      "Trade receivables - third parties": {
+        "name": "Piutang usaha pihak ketiga",
+        "category_hint": "Assets - Current",
+        "current_year": 71776497049,
+        "previous_year": 65506906292
+      },
+      "Current inventories": {
+        "name": "Persediaan",
+        "category_hint": "Assets - Current",
+        "current_year": 87241701660,
+        "previous_year": 157485132716
+      },
+      "Other current assets (selected)": {
+        "name": "Other current financial assets (aggregate / selected)",
+        "category_hint": "Assets - Current",
+        "current_year": 77549504999,
+        "previous_year": null
+      }
+    },
+    "Statement of profit or loss": {
+      "Sales and revenue": {
+        "name": "Penjualan dan pendapatan usaha",
+        "category_hint": "Income Statement - Revenue",
+        "current_year": 530431613239,
+        "previous_year": 518358927118
+      },
+      "Cost of sales and revenue": {
+        "name": "Beban pokok penjualan dan pendapatan",
+        "category_hint": "Income Statement - Expense",
+        "current_year": -365504855550,
+        "previous_year": -344678244501
+      },
+      "Total gross profit": {
+        "name": "Jumlah laba bruto",
+        "category_hint": "Income Statement - Profit",
+        "current_year": 164926757689,
+        "previous_year": 173680682617
+      },
+      "Selling expenses": {
+        "name": "Beban penjualan",
+        "category_hint": "Income Statement - Expense",
+        "current_year": -66021865778,
+        "previous_year": -62108968502
+      },
+      "General and administrative expenses": {
+        "name": "Beban umum dan administrasi",
+        "category_hint": "Income Statement - Expense",
+        "current_year": -35362683166,
+        "previous_year": -36744587771
+      },
+      "Finance income": {
+        "name": "Pendapatan keuangan",
+        "category_hint": "Income Statement - Income",
+        "current_year": 17940357253,
+        "previous_year": 11631466408
+      },
+      "Interest and finance costs": {
+        "name": "Beban bunga dan keuangan",
+        "category_hint": "Income Statement - Expense",
+        "current_year": -1829296619,
+        "previous_year": -1996846298
+      },
+      "Gains (losses) on changes in foreign exchange rates": {
+        "name": "Keuntungan (Kerugian) Selisih Kurs Mata Uang Asing",
+        "category_hint": "Income Statement - Other Income",
+        "current_year": 1895272091,
+        "previous_year": null
+      },
+      "Share of profit (loss) of associates accounted for using equity method": {
+        "name": "Bagian atas laba (rugi) entitas asosiasi (metode ekuitas)",
+        "category_hint": "Income Statement - Other",
+        "current_year": -47186223,
+        "previous_year": -94289232
+      },
+      "Total profit (loss) before tax": {
+        "name": "Jumlah laba (rugi) sebelum pajak",
+        "category_hint": "Income Statement - Profit",
+        "current_year": 81618652526,
+        "previous_year": 87372045333
+      },
+      "Tax benefit (expenses)": {
+        "name": "Pendapatan (beban) pajak",
+        "category_hint": "Income Statement - Tax",
+        "current_year": -17062756188,
+        "previous_year": -13305382889
+      },
+      "Total profit (loss) from continuing operations": {
+        "name": "Jumlah laba (rugi) dari operasi yang dilanjutkan",
+        "category_hint": "Income Statement - Profit",
+        "current_year": 64555896338,
+        "previous_year": 74066662444
+      }
+    },
+    "Statement of cash flows": {
+      "Cash generated from (used in) operations": {
+        "name": "Cash generated from (used in) operations",
+        "category_hint": "Cash Flow - Operating",
+        "current_year": 45693250227,
+        "previous_year": 105317963484
+      },
+      "Cash receipts from operating activities": {
+        "name": "Penerimaan kas dari aktivitas operasi",
+        "category_hint": "Cash Flow - Operating",
+        "current_year": 524739245317,
+        "previous_year": 527499560879
+      },
+      "Cash payments from operating activities": {
+        "name": "Pembayaran kas dari aktivitas operasi",
+        "category_hint": "Cash Flow - Operating",
+        "current_year": -378419391628,
+        "previous_year": -321411424387
+      }
+    },
+    "Statement of changes in equity": {
+      "Beginning balance - common stock": {
+        "name": "Saldo awal periode (Saham biasa)",
+        "category_hint": "Equity",
+        "current_year": 34938750000,
+        "previous_year": null
+      },
+      "Retained earnings (as reported)": {
+        "name": "Saldo laba (Retained earnings) reported in changes in equity",
+        "category_hint": "Equity",
+        "current_year": 34938750000,
+        "previous_year": 35252229579
+      },
+      "Dividends distributed (cash)": {
+        "name": "Distribusi dividen kas",
+        "category_hint": "Equity - Distribution",
+        "current_year": -31444875000,
+        "previous_year": null
+      },
+      "Other comprehensive income (total, before tax)": {
+        "name": "Pendapatan komprehensif lainnya yang tidak akan direklasifikasi / sebelum pajak",
+        "category_hint": "Equity - OCI",
+        "current_year": 6948983751,
+        "previous_year": 41362412258
+      }
+    }
+  },
+  "notes": {
+    "extraction_confidence": "high for headline totals and major line items; medium for some grouped aggregates; low for items not present or ambiguous (set to null).",
+    "unextracted_or_null_keys": [
+      "many footnote-level breakdowns (disclosures) are omitted and set to null",
+      "some non-material or rarely-used labels left null"
+    ]
+  }
+}

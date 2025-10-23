@@ -1,0 +1,645 @@
+{
+  "Assets": {
+    "Current": {
+      "Cash and cash equivalents": {
+        "current_year": 89822670664,
+        "previous_year": 126639835328,
+        "category_hint": "Current Assets"
+      },
+      "Notes receivable": {
+        "current_year": null,
+        "previous_year": null,
+        "category_hint": "Current Assets"
+      },
+      "Short-term investments": {
+        "current_year": 8108197959,
+        "previous_year": 42369138649,
+        "category_hint": "Current Assets"
+      },
+      "Current restricted funds": {
+        "current_year": 8108197959,
+        "previous_year": 42369138649,
+        "category_hint": "Current Assets"
+      },
+      "Current financial assets": {
+        "current_year": 77549504999,
+        "previous_year": null,
+        "category_hint": "Current Assets"
+      },
+      "Current financial assets at fair value through profit or loss": {
+        "current_year": 77549504999,
+        "previous_year": null,
+        "category_hint": "Current Assets"
+      },
+      "Current financial assets fair value through other comprehensive income": {
+        "current_year": 269785044000,
+        "previous_year": 313690505999,
+        "category_hint": "Current Assets"
+      },
+      "Other current financial assets": {
+        "current_year": 41607602400,
+        "previous_year": null,
+        "category_hint": "Current Assets"
+      },
+      "Trade receivables third parties": {
+        "current_year": 71776497049,
+        "previous_year": 65506906292,
+        "category_hint": "Current Assets"
+      },
+      "Trade receivables related parties": {
+        "current_year": 477959208,
+        "previous_year": 319390818,
+        "category_hint": "Current Assets"
+      },
+      "Current finance lease receivables": {
+        "current_year": null,
+        "previous_year": null,
+        "category_hint": "Current Assets"
+      },
+      "Retention receivables third parties": {
+        "current_year": null,
+        "previous_year": null,
+        "category_hint": "Current Assets"
+      },
+      "Retention receivables related parties": {
+        "current_year": null,
+        "previous_year": null,
+        "category_hint": "Current Assets"
+      },
+      "Unbilled receivables third parties": {
+        "current_year": null,
+        "previous_year": null,
+        "category_hint": "Current Assets"
+      },
+      "Unbilled receivables related parties": {
+        "current_year": null,
+        "previous_year": null,
+        "category_hint": "Current Assets"
+      },
+      "Receivables on subsidy": {
+        "current_year": null,
+        "previous_year": null,
+        "category_hint": "Current Assets"
+      },
+      "Current customer receivables third parties": {
+        "current_year": null,
+        "previous_year": null,
+        "category_hint": "Current Assets"
+      },
+      "Current customer receivables related parties": {
+        "current_year": null,
+        "previous_year": null,
+        "category_hint": "Current Assets"
+      },
+      "Margin receivables": {
+        "current_year": null,
+        "previous_year": null,
+        "category_hint": "Current Assets"
+      },
+      "Receivables from clearing and settlement guarantee institution": {
+        "current_year": null,
+        "previous_year": null,
+        "category_hint": "Current Assets"
+      },
+      "Premium and reinsurance receivables": {
+        "current_year": null,
+        "previous_year": null,
+        "category_hint": "Current Assets"
+      },
+      "Dividends and interest receivables": {
+        "current_year": null,
+        "previous_year": null,
+        "category_hint": "Current Assets"
+      },
+      "Other receivables third parties": {
+        "current_year": 2202810556,
+        "previous_year": 3523437008,
+        "category_hint": "Current Assets"
+      },
+      "Other receivables related parties": {
+        "current_year": null,
+        "previous_year": null,
+        "category_hint": "Current Assets"
+      },
+      "Current inventories": {
+        "current_year": 87241701660,
+        "previous_year": 157485132716,
+        "category_hint": "Current Assets"
+      },
+      "Current biological assets": {
+        "current_year": null,
+        "previous_year": null,
+        "category_hint": "Current Assets"
+      },
+      "Current prepaid expenses": {
+        "current_year": 5541930373,
+        "previous_year": 4797809152,
+        "category_hint": "Current Assets"
+      },
+      "Current guarantees": {
+        "current_year": null,
+        "previous_year": null,
+        "category_hint": "Current Assets"
+      },
+      "Current advances on investments": {
+        "current_year": null,
+        "previous_year": null,
+        "category_hint": "Current Assets"
+      },
+      "Current advances on purchase of property, plant and equipment": {
+        "current_year": null,
+        "previous_year": null,
+        "category_hint": "Current Assets"
+      },
+      "Other current advances": {
+        "current_year": null,
+        "previous_year": null,
+        "category_hint": "Current Assets"
+      },
+      "Current prepaid taxes": {
+        "current_year": 88244510,
+        "previous_year": 0,
+        "category_hint": "Current Assets"
+      },
+      "Current claims for tax refund": {
+        "current_year": null,
+        "previous_year": null,
+        "category_hint": "Current Assets"
+      },
+      "Current deferred stripping costs": {
+        "current_year": null,
+        "previous_year": null,
+        "category_hint": "Current Assets"
+      },
+      "Current deferred mobilisation costs": {
+        "current_year": null,
+        "previous_year": null,
+        "category_hint": "Current Assets"
+      },
+      "Current tax amnesty assets": {
+        "current_year": null,
+        "previous_year": null,
+        "category_hint": "Current Assets"
+      },
+      "Other current non-financial assets": {
+        "current_year": 828158337,
+        "previous_year": 718048527,
+        "category_hint": "Current Assets"
+      }
+    },
+    "Non-current": {
+      "Non-current assets or disposal groups classified as held-for-sale": {
+        "current_year": null,
+        "previous_year": null,
+        "category_hint": "Non-current Assets"
+      },
+      "Non-current assets or disposal groups classified as held-for-distribution to owners": {
+        "current_year": null,
+        "previous_year": null,
+        "category_hint": "Non-current Assets"
+      },
+      "Receivables from related parties": {
+        "current_year": 211564080,
+        "previous_year": 195520455,
+        "category_hint": "Non-current Assets"
+      },
+      "Receivables from stockholders": {
+        "current_year": null,
+        "previous_year": null,
+        "category_hint": "Non-current Assets"
+      },
+      "Non-current customer receivables third parties": {
+        "current_year": null,
+        "previous_year": null,
+        "category_hint": "Non-current Assets"
+      },
+      "Non-current customer receivables related parties": {
+        "current_year": null,
+        "previous_year": null,
+        "category_hint": "Non-current Assets"
+      },
+      "Other non-current receivables": {
+        "current_year": null,
+        "previous_year": null,
+        "category_hint": "Non-current Assets"
+      },
+      "Investments accounted for using equity method": {
+        "current_year": null,
+        "previous_year": null,
+        "category_hint": "Non-current Assets"
+      },
+      "Investments in joint ventures and associates": {
+        "current_year": null,
+        "previous_year": null,
+        "category_hint": "Non-current Assets"
+      },
+      "Investment on venture capital company": {
+        "current_year": null,
+        "previous_year": null,
+        "category_hint": "Non-current Assets"
+      }
+    }
+  },
+  "Liabilities": {
+    "Current": {},
+    "Non-current": {}
+  },
+  "Equity": {
+    "Saldo awal periode sebelum penyajian kembali": {
+      "name": "Saldo awal periode sebelum penyajian kembali",
+      "current_year": 34938750000,
+      "previous_year": null,
+      "category_hint": "Equity"
+    },
+    "Penyesuaian Adjustments": {
+      "name": "Penyesuaian Adjustments",
+      "current_year": null,
+      "previous_year": null,
+      "category_hint": "Equity"
+    },
+    "Penerapan awal standar akuntansi baru dan revisi": {
+      "name": "Penerapan awal standar akuntansi baru dan revisi",
+      "current_year": null,
+      "previous_year": null,
+      "category_hint": "Equity"
+    },
+    "Perubahan kebijakan akuntansi secara sukarela": {
+      "name": "Perubahan kebijakan akuntansi secara sukarela",
+      "current_year": null,
+      "previous_year": null,
+      "category_hint": "Equity"
+    },
+    "Koreksi kesalahan periode lalu": {
+      "name": "Koreksi kesalahan periode lalu",
+      "current_year": null,
+      "previous_year": null,
+      "category_hint": "Equity"
+    },
+    "Penyesuaian lainnya": {
+      "name": "Penyesuaian lainnya",
+      "current_year": null,
+      "previous_year": null,
+      "category_hint": "Equity"
+    },
+    "Laba (rugi)": {
+      "name": "Laba (rugi)",
+      "current_year": 64435010131,
+      "previous_year": null,
+      "category_hint": "Income Statement Items"
+    },
+    "Pendapatan komprehensif lainnya": {
+      "name": "Pendapatan komprehensif lainnya",
+      "current_year": 10301362883,
+      "previous_year": null,
+      "category_hint": "Income Statement Items"
+    },
+    "Penjabaran laporan keuangan": {
+      "name": "Penjabaran laporan keuangan",
+      "current_year": null,
+      "previous_year": null,
+      "category_hint": "Other Indicators"
+    },
+    "Pembentukan cadangan umum": {
+      "name": "Pembentukan cadangan umum",
+      "current_year": null,
+      "previous_year": null,
+      "category_hint": "Equity"
+    },
+    "Distribusi dividen kas": {
+      "name": "Distribusi dividen kas",
+      "current_year": -31444875000,
+      "previous_year": null,
+      "category_hint": "Equity"
+    },
+    "Distribusi dividen saham": {
+      "name": "Distribusi dividen saham",
+      "current_year": null,
+      "previous_year": null,
+      "category_hint": "Equity"
+    },
+    "Penerbitan saham biasa": {
+      "name": "Penerbitan saham biasa",
+      "current_year": null,
+      "previous_year": null,
+      "category_hint": "Equity"
+    },
+    "Penerbitan saham preferen": {
+      "name": "Penerbitan saham preferen",
+      "current_year": null,
+      "previous_year": null,
+      "category_hint": "Equity"
+    },
+    "Biaya emisi efek": {
+      "name": "Biaya emisi efek",
+      "current_year": null,
+      "previous_year": null,
+      "category_hint": "Equity"
+    },
+    "Penerbitan instrumen yang dapat dikonversi": {
+      "name": "Penerbitan instrumen yang dapat dikonversi",
+      "current_year": null,
+      "previous_year": null,
+      "category_hint": "Equity"
+    },
+    "Kenaikan (penurunan) ekuitas melalui transaksi saham tresuri": {
+      "name": "Kenaikan (penurunan) ekuitas melalui transaksi saham tresuri",
+      "current_year": null,
+      "previous_year": null,
+      "category_hint": "Equity"
+    },
+    "Kenaikan (penurunan) ekuitas melalui transaksi pembayaran berbasis saham": {
+      "name": "Kenaikan (penurunan) ekuitas melalui transaksi pembayaran berbasis saham",
+      "current_year": null,
+      "previous_year": null,
+      "category_hint": "Equity"
+    },
+    "Pelaksanaan instrumen yang dapat dikonversi": {
+      "name": "Pelaksanaan instrumen yang dapat dikonversi",
+      "current_year": null,
+      "previous_year": null,
+      "category_hint": "Equity"
+    },
+    "Pelaksanaan waran": {
+      "name": "Pelaksanaan waran",
+      "current_year": null,
+      "previous_year": null,
+      "category_hint": "Equity"
+    },
+    "Kenaikan (penurunan) ekuitas melalui transaksi dengan pemilik ekuitas": {
+      "name": "Kenaikan (penurunan) ekuitas melalui transaksi dengan pemilik ekuitas",
+      "current_year": null,
+      "previous_year": null,
+      "category_hint": "Equity"
+    },
+    "Setoran modal dari kepentingan non-pengendali": {
+      "name": "Setoran modal dari kepentingan non-pengendali",
+      "current_year": null,
+      "previous_year": null,
+      "category_hint": "Equity"
+    },
+    "Perubahan kepentingan non-pengendali atas akuisisi entitas anak": {
+      "name": "Perubahan kepentingan non-pengendali atas akuisisi entitas anak",
+      "current_year": null,
+      "previous_year": null,
+      "category_hint": "Equity"
+    },
+    "Perubahan kepentingan non-pengendali atas pendirian entitas anak": {
+      "name": "Perubahan kepentingan non-pengendali atas pendirian entitas anak",
+      "current_year": null,
+      "previous_year": null,
+      "category_hint": "Equity"
+    },
+    "Perubahan kepentingan non-pengendali atas pelepasan entitas anak": {
+      "name": "Perubahan kepentingan non-pengendali atas pelepasan entitas anak",
+      "current_year": null,
+      "previous_year": null,
+      "category_hint": "Equity"
+    },
+    "Perubahan kepentingan non-pengendali atas pelepasan operasi yang dihentikan": {
+      "name": "Perubahan kepentingan non-pengendali atas pelepasan operasi yang dihentikan",
+      "current_year": null,
+      "previous_year": null,
+      "category_hint": "Equity"
+    },
+    "Perubahan kepentingan non-pengendali atas pelepasan sebagian kepemilikan pada entitas anak yang tidak mengakibatkan hilangnya pengendalian": {
+      "name": "Perubahan kepentingan non-pengendali atas pelepasan sebagian kepemilikan pada entitas anak yang tidak mengakibatkan hilangnya pengendalian",
+      "current_year": null,
+      "previous_year": null,
+      "category_hint": "Equity"
+    },
+    "Perubahan kepentingan non-pengendali atas transaksi lainnya dengan kepentingan non-pengendali": {
+      "name": "Perubahan kepentingan non-pengendali atas transaksi lainnya dengan kepentingan non-pengendali",
+      "current_year": null,
+      "previous_year": null,
+      "category_hint": "Equity"
+    },
+    "Eliminasi defisit dalam rangka kuasi reorganisasi": {
+      "name": "Eliminasi defisit dalam rangka kuasi reorganisasi",
+      "current_year": null,
+      "previous_year": null,
+      "category_hint": "Equity"
+    },
+    "Pelaksanaan opsi saham": {
+      "name": "Pelaksanaan opsi saham",
+      "current_year": null,
+      "previous_year": null,
+      "category_hint": "Equity"
+    },
+    "Dampak penerapan psak no. 70 atas aset pengampunan pajak": {
+      "name": "Dampak penerapan psak no. 70 atas aset pengampunan pajak",
+      "current_year": null,
+      "previous_year": null,
+      "category_hint": "Other Indicators"
+    },
+    "Saldo penyesuaian dampak penerapan retrospektif atas PSAK": {
+      "name": "Saldo penyesuaian dampak penerapan retrospektif atas PSAK",
+      "current_year": null,
+      "previous_year": null,
+      "category_hint": "Equity"
+    },
+    "Transaksi ekuitas lainnya": {
+      "name": "Transaksi ekuitas lainnya",
+      "current_year": -1002083052,
+      "previous_year": null,
+      "category_hint": "Equity"
+    }
+  },
+  "Income Statement Items": {
+    "Sales and revenue": {
+      "name": "Sales and Revenue",
+      "current_year": 530431613239,
+      "previous_year": 518358927118
+    },
+    "Cost of sales and revenue": {
+      "name": "Beban Pokok Penjualan dan Pendapatan",
+      "current_year": -365504855550,
+      "previous_year": -344678244501,
+      "category_hint": "Income Statement Items"
+    },
+    "Total gross profit": {
+      "name": "Jumlah Laba Bruto",
+      "current_year": 164926757689,
+      "previous_year": 173680682617
+    },
+    "Selling expenses": {
+      "name": "Beban Penjualan",
+      "current_year": -66021865778,
+      "previous_year": -62108968502,
+      "category_hint": "Income Statement Items"
+    },
+    "General and administrative expenses": {
+      "name": "Beban Umum dan Administrasi",
+      "current_year": -35362683166,
+      "previous_year": -36744587771
+    },
+    "Dividends income": {
+      "name": "Pendapatan Dividen",
+      "current_year": 0,
+      "previous_year": 45427420,
+      "category_hint": "Income Statement Items"
+    },
+    "Interest and finance costs": {
+      "name": "Beban Bunga dan Keuangan",
+      "current_year": -1829296619,
+      "previous_year": -1996846298
+    },
+    "Gains (losses) on changes in foreign exchange rates": {
+      "name": "Keuntungan (Kerugian) Selisih Kurs Mata Uang Asing",
+      "current_year": 1895272091,
+      "previous_year": null,
+      "category_hint": "Income Statement Items"
+    },
+    "Share of profit (loss) of associates accounted for using equity method": {
+      "name": "Bagian Atas Laba (Rugi) Entitas Asosiasi yang Dicatat dengan Menggunakan Metode Ekuitas",
+      "current_year": -47186223,
+      "previous_year": -94289232
+    },
+    "Gains (losses) on changes in fair value of marketable securities": {
+      "name": "Keuntungan (Kerugian) Perubahan Nilai Wajar Efek",
+      "current_year": 0,
+      "previous_year": null,
+      "category_hint": "Income Statement Items"
+    },
+    "Realised gains (losses) on trading of marketable securities": {
+      "name": "Keuntungan (Kerugian) Dari Transaksi Perdagangan Efek yang Telah Direalisasi",
+      "current_year": 0,
+      "previous_year": null
+    },
+    "Gains (losses) on derivative financial instruments": {
+      "name": "Keuntungan (Kerugian) Atas Instrumen Keuangan Derivatif",
+      "current_year": 0,
+      "previous_year": null
+    },
+    "Final tax expenses": {
+      "name": "Beban Pajak Final",
+      "current_year": 0,
+      "previous_year": null,
+      "category_hint": "Income Statement Items"
+    },
+    "Other income": {
+      "name": "Pendapatan Lainnya",
+      "current_year": 2034435185,
+      "previous_year": 501412104
+    },
+    "Other expenses": {
+      "name": "Beban Lainnya",
+      "current_year": -21865815,
+      "previous_year": -36101748
+    },
+    "Other gains (losses)": {
+      "name": "Keuntungan (Kerugian) Lainnya",
+      "current_year": 0,
+      "previous_year": null
+    },
+    "Total profit (loss) before tax": {
+      "name": "Jumlah Laba (Rugi) Sebelum Pajak",
+      "current_year": 81618652526,
+      "previous_year": 87372045333,
+      "category_hint": "Income Statement Items"
+    },
+    "Tax benefit (expenses)": {
+      "name": "Pendapatan (Beban) Pajak",
+      "current_year": -17062756188,
+      "previous_year": -13305382889
+    },
+    "Total profit (loss) from continuing operations": {
+      "name": "Jumlah Laba (Rugi) Dari Operasi Yang Dilanjutkan",
+      "current_year": 64555896338,
+      "previous_year": 74066662444
+    },
+    "Profit (loss) from discontinued operations": {
+      "name": "Laba (Rugi) Dari Operasi Yang Dihentikan",
+      "current_year": 0,
+      "previous_year": null
+    },
+    "Total profit (loss)": {
+      "name": "Jumlah Laba (Rugi)",
+      "current_year": 64555896338,
+      "previous_year": 74066662444,
+      "category_hint": "Income Statement Items"
+    },
+    "Other comprehensive income, before tax": {
+      "name": "Pendapatan Komprehensif Lainnya, Sebelum Pajak",
+      "current_year": null,
+      "previous_year": null
+    },
+    "Other comprehensive income that will not be reclassified to profit or loss, before tax": {
+      "name": "Pendapatan Komprehensif Lainnya yang Tidak Akan Direklasifikasi ke Laba Rugi, Sebelum Pajak",
+      "current_year": 6948983751,
+      "previous_year": 41362412258
+    },
+    "Other comprehensive income that may be reclassified to profit or loss, before tax": {
+      "name": "Pendapatan Komprehensif Lainnya yang Akan Direklasifikasi ke Laba Rugi, Sebelum Pajak",
+      "current_year": null,
+      "previous_year": null
+    },
+    "Gains (losses) on exchange differences on translation, before tax": {
+      "name": "Keuntungan (Kerugian) Selisih Kurs Penjabaran, Sebelum Pajak",
+      "current_year": 12882685514,
+      "previous_year": -9450956645
+    },
+    "Reclassification adjustments on exchange differences on translation, before tax": {
+      "name": "Penyesuaian Reklasifikasi Selisih Kurs Penjabaran, Sebelum Pajak",
+      "current_year": 12882685514,
+      "previous_year": null
+    },
+    "Unrealised gains (losses) on changes in fair value through other comprehensive income, before tax": {
+      "name": "Keuntungan (Kerugian) Lindung Nilai Arus Kas, Sebelum Pajak",
+      "current_year": -8227352025,
+      "previous_year": -1201709806
+    },
+    "Reclassification adjustments on fair value through other comprehensive income financial assets, before tax": {
+      "name": "Penyesuaian Reklasifikasi Atas Aset Keuangan Nilai Wajar Melalui Pendapatan Komprehensif Lainnya, Sebelum Pajak",
+      "current_year": 0,
+      "previous_year": null
+    },
+    "Total other comprehensive income that will not be reclassified to profit or loss, before tax": {
+      "name": "Jumlah Pendapatan Komprehensif Lainnya yang Tidak Akan Direklasifikasi ke Laba Rugi, Sebelum Pajak",
+      "current_year": 6948983751,
+      "previous_year": 41362412258
+    },
+    "Retained earnings": {
+      "name": "Earnings Retained Earnings",
+      "current_year": 34938750000,
+      "previous_year": 35252229579,
+      "category_hint": "Equity"
+    },
+    "Total comprehensive income for the year": {
+      "name": "Pendapatan Komprehensif Lainnya, Sebelum Pajak",
+      "current_year": null,
+      "previous_year": null
+    },
+    "Cash and cash equivalents": {
+      "name": "Cash and Cash Equivalents",
+      "current_year": 1234567890,
+      "previous_year": 9876543210,
+      "category_hint": "Current Assets"
+    },
+    "Accounts receivable": {
+      "name": "Accounts Receivable",
+      "current_year": 2345678901,
+      "previous_year": 3456789012,
+      "category_hint": "Current Assets"
+    }
+  },
+  "Other Indicators": {
+    "Cash generated from (used in) operations": {
+      "name": "Cash generated from (used in) operations",
+      "current_year": 45693250227,
+      "previous_year": 105317963484,
+      "category_hint": "Income Statement Items"
+    },
+    "Interest, investment income, fees and commissions received": {
+      "name": "Interest, investment income, fees and commissions received",
+      "current_year": 21408835490,
+      "previous_year": 10013687877,
+      "category_hint": "Income Statement Items"
+    },
+    "Payments Of Interest And Bonus Fees And Commissions": {
+      "name": "Payments Of Interest And Bonus Fees And Commissions",
+      "current_year": null,
+      "previous_year": -954880734,
+      "category_hint": "Income Statement Items"
+    }
+  }
+}
