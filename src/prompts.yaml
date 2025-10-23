@@ -3,15 +3,23 @@ EXTRACTOR_PROMPT: |
     Extract all correlated financial keys and their value in this {sections} segment:
     {text}
     
-    Find financial items and their numeric amounts in IDR currency.
-    - There will be 2 values each financial keys: previous year and current year, you must find the previous year and current year in segment text
-    - Each key as financial item name in English
-    - Each value should be in IDR if available
-    - If value in (), it means negative number
-    - All values must be pure numbers (no commas, currency symbols, or text)
-    - If amount is not available, use null
-    - Ignore explanations or notes
+    For each item, identify:
+    - "name": financial line item (in English)
+    - "current_year": value for the most recent year
+    - "previous_year": value for the previous year
+    - "category_hint": one of the following groups based on context:
+    - Current Assets
+    - Non-current Assets
+    - Current Liabilities
+    - Non-current Liabilities
+    - Equity
+    - Income Statement Items
+    - Other Indicators
 
-    Do not include any explanations, introductions, or text outside the JSON. The first character in your response must be {{
-    Return ONLY valid JSON. Example:
-    {{key: {{ "current year": value1, "previous year": value2 }}}}
+    Rules:
+    - All numbers must be numeric only (no symbols, commas, or text)
+    - If a value is missing, set it to null
+    - Do not include any explanations, introductions, or text outside the JSON. The first character in your response must be {{
+    - Return only valid JSON array format, e.g.:
+    [
+    {{"name": "Cash and cash equivalents", "current_year": 123, "previous_year": 456, "category_hint": "Current Assets"}}
